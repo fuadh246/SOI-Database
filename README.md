@@ -4,7 +4,6 @@ CIS 4331 Final project
 
 ### Project tree
 .
- * [SQL](./SQL)
  * [Docs](./Docs)
  * [ERD](./ERD)
    * [ERD.png](./ERD/ERD.png)
@@ -13,6 +12,8 @@ CIS 4331 Final project
    * [Schema.drawio](./ERD/Schema.drawio)
  * [Data](./Data)
    * [BCRED_soi_tables.xlsx](./Data/BCRED_soi_tables.xlsx)
+ * [README.md](./README.md)
+ * [SQL](./SQL)
 
 ### run this to get the tree
 ```bash
